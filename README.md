@@ -2,9 +2,9 @@
 Links arweave data folders to storage drives using symbolic links.
 
 ## Usage
-Clone the repo or download the latest file from releases. Move the script to your main arweave folder.
+Clone the repo or download the latest file from releases.
 
-Open the bash file in your editor of choice and change the variables at the beginning of the script. You should also read through the script itself to validate the commands being executed. Your data will be at risk of erasure if the proper steps are not taken. The script may also need to be executed as root to access some protected directories.
+Open the bash file in your editor of choice and change the variables at the beginning of the script. You should also read through the script itself to validate the commands being executed. Your data will be at risk of erasure if the proper steps are not taken. **The script may also need to be executed as root to access some protected directories.**
 
 Ensure that the file is given permissions to be executed:
 
