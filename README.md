@@ -2,7 +2,7 @@
 Links arweave data folders to storage drives using symbolic links.
 
 ## Usage
-Clone the repo or download the latest file from releases.
+Clone the repo or download the zip file directly from GitHub.
 
 Open the bash file in your editor of choice and change the variables at the beginning of the script. You should also read through the script itself to validate the commands being executed. Your data will be at risk of erasure if the proper steps are not taken. **The script may also need to be executed as root to access some protected directories.**
 
